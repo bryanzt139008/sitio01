@@ -1,3 +1,0 @@
-const fnValidar06 = () => {
-
-}

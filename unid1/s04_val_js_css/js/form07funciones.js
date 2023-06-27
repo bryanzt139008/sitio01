@@ -1,7 +1,0 @@
-const pasarTexto = () => {
-	
-}
-
-const fnConcatenar = () => {
-	
-}
